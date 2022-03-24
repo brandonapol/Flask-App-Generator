@@ -1,6 +1,7 @@
 # Flask-App-Generator
 
-#### Please note: This app lives in `final_project` - to run, please change directories, then run.
+#### Please note: This app lives in `final_project` - to run, please change directories, \
+type `npm install` in terminal, then run with `npm run start`.
 
 # Getting Started with Create React App
 
